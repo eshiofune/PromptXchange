@@ -2,7 +2,7 @@
 
 <h2 style="font-size: 24px; border-bottom: none;">Read Me</h2>
 
-![readme](images/readme_1.png)
+<img src="images/readme_1.png" alt="readme" style="width: 100%;">
 
 ## Introduction
 
