@@ -1,33 +1,31 @@
-![readme](images/readme_1.png)
-
 # PromptXchange
 
-### Read Me
+<h2 style="text-decoration: none; border-bottom: none;">Read Me</h2>
 
-![readme](images/readme_1.png)
+<img src="images/readme_1.png" alt="readme" style="width: 100%;">
 
-## Introduction
+<h3 style="width: 100%; border-bottom: 2px solid white;"> Introduction </h3>
 
 Lorem ipsum dolor sit amet consectetur. Ullamcorper mollis nunc interdum suspendisse a urna mauris. Vitae id diam molestie sed pellentesque. Enim faucibus quisque egestas aliquet arcu purus. Tortor sagittis pretium pulvinar quam. Massa fermentum ornare ultrices sit vivamus sed tortor
 
-## Installation
+<h3 style="width: 100%; border-bottom: 2px solid white;"> Installation </h3>
 
 Lorem ipsum dolor sit amet consectetur. Ullamcorper mollis nunc interdum suspendisse a urna mauris. Vitae id diam molestie sed pellentesque. Enim faucibus quisque egestas aliquet arcu purus.
 
 ![installation](images/installation_1.png)
 
-## Usage
+<h3 style="width: 100%; border-bottom: 2px solid white;"> Usage </h3>
 
 Lorem ipsum dolor sit amet consectetur. Ullamcorper mollis nunc interdum suspendisse a urna mauris. Vitae id diam molestie sed pellentesque. Enim faucibus quisque egestas aliquet arcu purus.
 
-## Roadmap
+<h3 style="width: 100%; border-bottom: 2px solid white;"> Roadmap </h3>
 
 - Lorem ipsum dolor sit amet consectetur.
 - Ullamcorper mollis nunc interdum suspendisse a urna mauris.
 - Vitae id diam molestie sed pellentesque.
 - Enim faucibus quisque egestas aliquet arcu purus.
 
-## Contribution
+<h3 style="width: 100%; border-bottom: 2px solid white;"> Contribution </h3>
 
 Lorem ipsum dolor sit amet consectetur.
 
@@ -35,14 +33,14 @@ Lorem ipsum dolor sit amet consectetur.
 - Vitae id diam molestie sed pellentesque.
 - Enim faucibus quisque egestas aliquet arcu purus.
 
-## Support
+<h3 style="width: 100%; border-bottom: 2px solid white;"> Support </h3>
 
 Lorem ipsum dolor sit amet consectetur. Ullamcorper mollis nunc interdum suspendisse a urna mauris. Vitae id diam molestie sed pellentesque. Enim faucibus quisque egestas aliquet arcu purus.
 
-## Acknowledgements
+<h3 style="width: 100%; border-bottom: 2px solid white;"> Acknowledgement </h3>
 
 This project would have not been possible without the help of @evans @dump0ctopus and @catladydesignr
 
-## License
+<h3 style="width: 100%; border-bottom: 2px solid white;"> License </h3>
 
 Lorem ipsum dolor sit amet consectetur. Ullamcorper mollis nunc interdum suspendisse a urna mauris. Vitae id diam molestie sed pellentesque. Enim faucibus quisque egestas aliquet arcu purus.
