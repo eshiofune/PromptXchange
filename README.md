@@ -1,31 +1,31 @@
 # PromptXchange
 
-<h2 style="font-size: 24px; border-bottom: none;">Read Me</h2>
+## Read Me
 
 <img src="images/readme_1.png" alt="readme" style="width: 100%;">
 
-## Introduction
+### Introduction
 
 Lorem ipsum dolor sit amet consectetur. Ullamcorper mollis nunc interdum suspendisse a urna mauris. Vitae id diam molestie sed pellentesque. Enim faucibus quisque egestas aliquet arcu purus. Tortor sagittis pretium pulvinar quam. Massa fermentum ornare ultrices sit vivamus sed tortor
 
-## Installation
+### Installation
 
 Lorem ipsum dolor sit amet consectetur. Ullamcorper mollis nunc interdum suspendisse a urna mauris. Vitae id diam molestie sed pellentesque. Enim faucibus quisque egestas aliquet arcu purus.
 
 ![installation](images/installation_1.png)
 
-## Usage
+### Usage
 
 Lorem ipsum dolor sit amet consectetur. Ullamcorper mollis nunc interdum suspendisse a urna mauris. Vitae id diam molestie sed pellentesque. Enim faucibus quisque egestas aliquet arcu purus.
 
-## Roadmap
+### Roadmap
 
 - Lorem ipsum dolor sit amet consectetur.
 - Ullamcorper mollis nunc interdum suspendisse a urna mauris.
 - Vitae id diam molestie sed pellentesque.
 - Enim faucibus quisque egestas aliquet arcu purus.
 
-## Contribution
+### Contribution
 
 Lorem ipsum dolor sit amet consectetur.
 
@@ -33,14 +33,14 @@ Lorem ipsum dolor sit amet consectetur.
 - Vitae id diam molestie sed pellentesque.
 - Enim faucibus quisque egestas aliquet arcu purus.
 
-## Support
+### Support
 
 Lorem ipsum dolor sit amet consectetur. Ullamcorper mollis nunc interdum suspendisse a urna mauris. Vitae id diam molestie sed pellentesque. Enim faucibus quisque egestas aliquet arcu purus.
 
-## Acknowledgement
+### Acknowledgement
 
 This project would have not been possible without the help of @evans @dump0ctopus and @catladydesignr
 
-## License
+### License
 
 Lorem ipsum dolor sit amet consectetur. Ullamcorper mollis nunc interdum suspendisse a urna mauris. Vitae id diam molestie sed pellentesque. Enim faucibus quisque egestas aliquet arcu purus.
