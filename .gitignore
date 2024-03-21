@@ -162,3 +162,18 @@ cython_debug/
 
 # Application files
 promptxchange_backend/promptxchange_backend/config.py
+
+# Frontend (Next)
+
+node_modules
+target
+dist
+logs
+public
+.cache
+.vscode
+.DS_Store
+.idea
+.next
+yarn-error.log
+npm-debug.log
