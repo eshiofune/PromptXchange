@@ -5,4 +5,4 @@ RUN apt-get -y upgrade
 COPY . .
 RUN pip install -r requirements.txt
 EXPOSE 5000
-CMD ["python", "promptxchange_backend/manage.py", "runserver", "0.0.0.0:5556"]
+CMD ["python", "manage.py", "runserver", "0.0.0.0:5556"]
